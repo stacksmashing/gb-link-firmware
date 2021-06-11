@@ -28,10 +28,6 @@ jobs:
         cd build
         cmake ..
         make
-        pwd
-        echo ${{runner.workspace}}
-        echo $GITHUB_WORKSPACE
-        tree .
     - name: Release Development Build
       uses: "marvinpinto/action-automatic-releases@latest"
       with:
