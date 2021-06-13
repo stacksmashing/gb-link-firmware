@@ -1,4 +1,6 @@
 # gb-link-firmware
+## Wiki
+You can find all relevant information for the gb-link project in [the wiki](https://github.com/stacksmashing/gb-link-firmware/wiki)
 ## How to build
 ### Get the code
 Clone the gb-link-firmware repo using `git clone https://github.com/stacksmashing/gb-link-firmware.git` and get a copy of the pico-sdk using `git clone https://github.com/raspberrypi/pico-sdk`.
